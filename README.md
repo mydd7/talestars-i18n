@@ -1,11 +1,10 @@
+<p align="center"><img src="https://files.catbox.moe/qsvsvo.png" width="450"></p>
+<h1 align="center">Tale Stars Language Files</h1>
 <p align="center">
-  <img src="https://files.catbox.moe/qsvsvo.png" width="450"><br>
-  <a href="#translation-guidelines">Translation Guidelines</a> •
-  <a href="#submitting-a-translation">Submitting a Translation</a> •
-  <a href="#thanks-for-translations">Thanks for Translations</a>
+  <strong><a href="#translation-guidelines">Translation Guidelines</a></strong> •
+  <strong><a href="#submitting-a-translation">Submitting a Translation</a></strong> •
+  <strong><a href="#thanks-for-translations">Thanks for Translations</a></strong>
 </p>
-
-# Tale Stars Language Files
 
 This repository contains Tale Stars’ language files in JSON format. You can contribute by translating Tale Stars into a new language or by fixing translation errors in the existing languages.
 
