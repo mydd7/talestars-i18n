@@ -85,7 +85,7 @@
         "FOLLOW CLOSEST ALLY": "跟随最近队友",
         "DYNA JUMP": "麦克跳跃",
         "CAMERA SETTINGS": "相机设置"
-        },
+    },
     "modMenuColor": "菜单按钮: 设置颜色",
     "modMenuPosition": "菜单按钮: 设置位置",
     "topLeft": "左上",
@@ -317,7 +317,7 @@
     "settingsQuickMenuCustomization": "自定义快捷菜单",
     "settingsQuickMenuCustomizationDesc": "自定义快捷菜单样式和模组",
     "modDescriptions": {
-    "Locks onto enemies, even through bushes or invisibility": "自动锁定敌人，即使对面隐身或在草丛中",
+        "Locks onto enemies, even through bushes or invisibility": "自动锁定敌人，即使对面隐身或在草丛中",
         "Boosts your speed": "提升你的速度",
         "Auto-aims at enemies with an 85% hit chance": "自动瞄准敌人，85%命中率",
         "Automatically dodges bullets": "自动躲子弹",
@@ -362,5 +362,5 @@
         "Forces the chat to always be visible in matches": "强制聊天面板在比赛中始终可见",
         "Lets you change game font": "允许你更改游戏字体",
         "Lets you change your team status": "允许你更改队伍状态"
-        }
+    }
 }
